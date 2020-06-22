@@ -114,6 +114,7 @@ h1, h2, h3, h4 {
   margin-bottom: 50px;
   padding_bottom: 20px;
   margin-top: 50px;
+  text-align: justify;
 }
 
 #back_to_portal {
